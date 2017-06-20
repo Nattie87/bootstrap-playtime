@@ -26,8 +26,8 @@ body {
 }
 
 #one:hover {
-background-color: #FF7CB5;
-color: white;
+  background-color: #FF7CB5;
+  color: white;
 }
 
 #two {
@@ -38,8 +38,8 @@ color: white;
 }
 
 #two:hover {
-background-color: #A076D3;
-color: white;
+  background-color: #A076D3;
+  color: white;
 }
 
 #three {
@@ -50,8 +50,8 @@ color: white;
 }
 
 #three:hover {
-background-color: #49F913;
-color: white;
+  background-color: #49F913;
+  color: white;
 }
 
 #four {
@@ -62,8 +62,8 @@ color: white;
 }
 
 #four:hover {
-background-color: #FF8300;
-color: white;
+  background-color: #FF8300;
+  color: white;
 }
 
 .row2 {
@@ -79,6 +79,10 @@ color: white;
 
 h3 {
   width: 97%;
+}
+
+img {
+  width: 100px;
 }
 
 
